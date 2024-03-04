@@ -1,3 +1,3 @@
-module github.com/my-org-for-test/go-repo-one
+module github.com/my-org-org/go-repo-one
 
 go 1.22
