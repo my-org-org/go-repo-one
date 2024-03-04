@@ -6,6 +6,6 @@ import (
 )
 
 func PrintDependencyMessage() {
-	fmt.Println("go-repo-one:  Rel v1.0.0")
+	fmt.Println("go-repo-one:  Rel v2.0.0")
     internal.InternalFunction()
 }
